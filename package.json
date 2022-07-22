@@ -1,0 +1,18 @@
+{
+  "name": "agency-slot-4d",
+  "main": "./lib/agen-slot-4d",
+  "version": "2.0.0",
+  "description": "Info Paling Gacor Agen Slot 4d Terbaru Asli Membayar",
+  "keywords": ["pragmatic play","agentotoplay","slot online terbaik","pocket gaming soft","toptrend gaming slot","slot microgaming","spade gaming","agen toto play slot","slot pragmatic play","games slot gampang menang","agen slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "agen-slot-4d:toggle"
+  },
+  "repository": "https://github.com/bakaolopo/agency-slot-4d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
